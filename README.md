@@ -9,6 +9,8 @@ Steps to create JAR file
     to run jar execute: java -jar target/TicketBooking-1.0-SNAPSHOT.jar
 
 Screenshots
+
+
 ![Screenshot from 2023-05-30 12-34-00](https://github.com/Mihirr10/maven_practical/assets/97070042/564be7dd-319b-41e0-9631-7767d5b84504)
 ![Screenshot from 2023-05-30 12-36-59](https://github.com/Mihirr10/maven_practical/assets/97070042/4362c87d-6622-4506-a9ee-4136d6cd6f54)
 ![Screenshot from 2023-05-30 13-31-50](https://github.com/Mihirr10/maven_practical/assets/97070042/f444dddf-67c8-48d4-92cd-3d6733247117)
